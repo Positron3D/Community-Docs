@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Building A Positron
+title: Positron V3 - Community Docs
 email: alex@blackkettle.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Documentation for how to build a Positron 3D printer.
+  Documentation for how to build a Positron 3D printer, from the community.
 baseurl: "/PositronV3/" # the subpath of your site, e.g. /blog
 url: "https://regularfry.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: regularfry
