@@ -1,8 +1,8 @@
 --- 
 layout: home
-title: Tutorials
+title: Build guide
 has_children: true
-permalink: docs/tutorials
+permalink: docs/build-guide
 nav_order: 2
 --- 
 # Tutorials
