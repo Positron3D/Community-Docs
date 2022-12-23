@@ -1,6 +1,6 @@
 --- 
 layout: home
-parent: Tutorials
+parent: Build guide
 title: Cutting the rails
 nav_order: 8
 --- 

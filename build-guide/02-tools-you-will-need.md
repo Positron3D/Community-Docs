@@ -1,6 +1,6 @@
 --- 
 layout: home
-parent: Tutorials
+parent: Build guide
 title: Tools you will need
 nav_order: 2
 --- 

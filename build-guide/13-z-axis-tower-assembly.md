@@ -1,6 +1,6 @@
 --- 
 layout: home
-parent: Tutorials
+parent: Build guide
 title: Z-axis tower assembly
 nav_order: 13
 --- 

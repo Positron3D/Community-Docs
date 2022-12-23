@@ -1,7 +1,7 @@
 --- 
 layout: home
 title: Extruder assembly
-parent: Tutorials
+parent: Build guide
 nav_order: 14
 --- 
 # Extruder assembly

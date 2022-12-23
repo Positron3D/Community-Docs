@@ -1,6 +1,6 @@
 --- 
 layout: home
-parent: Tutorials
+parent: Build guide
 title: How to order the PCBs
 nav_order: 9
 --- 

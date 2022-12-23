@@ -1,7 +1,7 @@
 --- 
 layout: home
 title: XY motor assembly
-parent: Tutorials
+parent: Build guide
 nav_order: 12
 --- 
 # XY motor assembly

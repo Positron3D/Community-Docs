@@ -1,6 +1,6 @@
 --- 
 layout: home
-parent: Tutorials
+parent: Build guide
 title: Software installation
 nav_order: 15
 --- 

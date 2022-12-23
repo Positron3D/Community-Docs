@@ -1,6 +1,6 @@
 --- 
 layout: home
-parent: Tutorials
+parent: Build guide
 nav_order: 17
 title: Assembled system integration
 --- 

@@ -1,6 +1,6 @@
 --- 
 layout: home
-parent: Tutorials
+parent: Build guide
 title: Z-axis motor assembly
 nav_order: 10
 --- 
